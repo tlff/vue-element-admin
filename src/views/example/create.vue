@@ -6,8 +6,8 @@
 import ArticleDetail from './components/ArticleDetail'
 
 export default {
-  name: 'CreateForm',
-  components: { ArticleDetail }
+    name: 'CreateForm',
+    components: { ArticleDetail }
 }
 </script>
 
